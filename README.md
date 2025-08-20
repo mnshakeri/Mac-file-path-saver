@@ -2,7 +2,7 @@
 
 To use this service, copy the provided file into your **Mac Services** folder.  
 
-➡️ [Download File Path Service](./services/File%20Path.workflow)
+➡️ [Download File Path Service](./File%20Path.workflow)
 
 #### Steps:
 1. Open **Finder**.  
